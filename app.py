@@ -16,5 +16,8 @@ pyautogui.click(2472,173,duration=2)
 #elevar até o topo da tela no lado esquerdo.
 
 #Extraindo dado
-
-
+with open('produtos.txt','r') as files:
+      for linha in files:
+        produto = linha.split(',')[0]
+        quantidade = linha.split(',')[1]
+        preco = linha.split(',')[2]
