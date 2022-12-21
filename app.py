@@ -27,3 +27,6 @@ with open('produtos.txt','r') as files:
         #Clicando e digitando a quantidade
         pyautogui.click( , ,duration=2)
         pyautogui.write(quantidade)
+        #Clicando e digitando o preço
+        pyautogui.click( , ,duration=2)
+        pyautogui.write(preco)
