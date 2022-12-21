@@ -23,3 +23,4 @@ with open('produtos.txt','r') as files:
         preco = linha.split(',')[2]
         #Clicando e digitando
         pyautogui.click( , ,duration=2)
+        pyautogui.write(produto)
