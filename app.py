@@ -21,12 +21,15 @@ with open('produtos.txt','r') as files:
         produto = linha.split(',')[0]
         quantidade = linha.split(',')[1]
         preco = linha.split(',')[2]
-        #Clicando e digitando o produto
+        #Clicando e digitando o produto.
         pyautogui.click( , ,duration=2)
         pyautogui.write(produto)
-        #Clicando e digitando a quantidade
+        #Clicando e digitando a quantidade.
         pyautogui.click( , ,duration=2)
         pyautogui.write(quantidade)
-        #Clicando e digitando o preço
+        #Clicando e digitando o preço.
         pyautogui.click( , ,duration=2)
         pyautogui.write(preco)
+        #Clicando e registrando.
+        pyautogui.click( , ,duration=1)
+        sleep(1)
