@@ -7,3 +7,7 @@ pyautogui.write('leandro')
 
 #clicando na senha
 pyautogui.click(2568,146,duration=2)
+pyautogui.write('123456')
+
+#clicando em entrar
+pyautogui.click(2472,173,duration=2)
