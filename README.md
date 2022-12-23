@@ -11,5 +11,5 @@ System information
 </h2>
 
 - Log in automatically
-- 
+- Copy and paste the data
 - 
