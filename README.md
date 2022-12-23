@@ -9,3 +9,7 @@ Automated system 🤖
 <h2 align="center">
 System information
 </h2>
+
+- Log in automatically
+- 
+- 
