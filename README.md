@@ -1,5 +1,4 @@
 <h1 align="center">
-Automated system 
+Automated system 🤖
 </h1>
 
-<video src="Automação.mp4"></video>
