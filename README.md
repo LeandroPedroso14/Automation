@@ -12,4 +12,4 @@ System information
 
 - Log in automatically
 - Copy and paste the data
-- 
+- Concludes with data recording
