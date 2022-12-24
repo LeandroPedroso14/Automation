@@ -18,7 +18,10 @@ System information
 Tools used 🛠️
 </h2>
 
--  Python 3.11 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" />
+-  Python 3.11 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="15" />
+-  VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="15" />
+            
+          
             
           
 
