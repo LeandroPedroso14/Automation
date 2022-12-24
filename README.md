@@ -13,3 +13,7 @@ System information
 - Log in automatically
 - Copy and paste the data
 - Concludes with data recording
+
+<h2 align="center">
+To install, follow the step by step 
+</h2>
