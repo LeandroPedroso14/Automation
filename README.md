@@ -17,3 +17,10 @@ System information
 <h2 align="center">
 To install, follow the step by step 
 </h2>
+
+<h2>
+ 👇
+</h2>
+
+- Create the python file: app.py
+- 
