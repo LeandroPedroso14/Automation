@@ -37,6 +37,7 @@ To install, follow the step by step
  👇
 </h3>
 
+- Download the file for installation: Program for registration.
 
 
 
