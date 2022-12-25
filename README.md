@@ -39,6 +39,7 @@ To install, follow the step by step
 
 - Download the file for installation: Program for registration.
 - Run program to register the application by clicking on : app
+- Baixe o bloco de notas : produtos.txt.
 
 
 
