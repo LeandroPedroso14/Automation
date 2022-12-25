@@ -38,7 +38,11 @@ To install, follow the step by step
 </h3>
 
 - Create the python file: app.py
-- 
+- Do the import: import pyautogui
+
+
+
+
 <h2 align="center">
 Completed project ✅
 </h2>
