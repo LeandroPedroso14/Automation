@@ -37,9 +37,9 @@ To install, follow the step by step
  👇
 </h3>
 
-- Download the file for installation: Program for registration.
+- Download the file for installation : Program for registration.
 - Run program to register the application by clicking on : app
-- Download notepad: products.txt.
+- Download notepad : products.txt.
 
 
 
