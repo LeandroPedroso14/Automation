@@ -33,9 +33,9 @@ Tools used 🛠️
 To install, follow the step by step 
 </h2>
 
-<h2>
+<h3>
  👇
-</h2>
+</h3>
 
 - Create the python file: app.py
 - 
