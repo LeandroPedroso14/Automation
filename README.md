@@ -22,13 +22,6 @@ Tools used 🛠️
 -  VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="20" height="15" />
 
 
-            
-          
-
-
-
-
-
 <h2 align="center">
 To install, follow the step by step 
 </h2>
@@ -41,11 +34,12 @@ To install, follow the step by step
 - Run program to register the application by clicking on : app.
 - Download notepad : products.txt.
 - In VS code Create the python file : app.py.
-- In VS code/Terminal Install the necessary libraries: pip intall pyautogui pillow mouseinfo.
+- In VS code/Terminal Install the necessary libraries : pip intall pyautogui pillow mouseinfo.
 - In VS code import sleep : from time import sleep.
-- In VS code/Terminal type: python.
-- In VS code/Terminal type: from mouseinfo import mouseInfo.
-- In VS code/Terminal type: mouseInfo().
+- In VS code/Terminal type : python.
+- In VS code/Terminal type : from mouseinfo import mouseInfo.
+- In VS code/Terminal type : mouseInfo().
+- In MouseInfo uncheck : 3 Sec. Button Delay.
 
 
 
