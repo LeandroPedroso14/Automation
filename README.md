@@ -44,6 +44,7 @@ To install, follow the step by step
 - In VS code/Terminal Install the necessary libraries: pip intall pyautogui pillow mouseinfo.
 - In VS code import sleep : from time import sleep.
 - In VS code/Terminal type: python.
+- In VS code/Terminal type: from mouseinfo import mouseInfo.
 
 
 
