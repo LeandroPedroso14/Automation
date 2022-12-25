@@ -42,6 +42,7 @@ To install, follow the step by step
 - Download notepad : products.txt.
 - In VS code Create the python file : app.py.
 - In VS code/Terminal Install the necessary libraries: pip intall pyautogui pillow mouseinfo.
+- In VS code import sleep : from time import sleep.
 
 
 
